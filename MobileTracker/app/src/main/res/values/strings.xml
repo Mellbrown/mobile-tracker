@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobileTracker</string>
+    <string name="title_activity_block_list">BlockListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mobile Tracker</string>
+    <string name="nav_header_subtitle">2mellbrown@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
